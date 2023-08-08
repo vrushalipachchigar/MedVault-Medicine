@@ -77,7 +77,7 @@ function initial() {
 var corsOptions = {
 
   // origin: ["http://localhost:5000"],
-  origin: "https://medvault-devdynamos.netlify.app/home",
+  origin: "https://medvault-devdynamos.netlify.app",
   credentials: true
 }
 
