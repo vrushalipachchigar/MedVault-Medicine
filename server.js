@@ -6,7 +6,7 @@ const cookieSession = require("cookie-session");
 
 const app = express();
 app.use(cors({
-  origin: 'http://localhost:4200',
+  origin: 'https://medvault-devdynamos.netlify.app',
   credentials: true,
 }));
 
